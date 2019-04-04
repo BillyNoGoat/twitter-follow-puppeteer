@@ -1,0 +1,15 @@
+{
+  "name": "mass-twitter-follow-puppeteer",
+  "version": "1.0.0",
+  "description": "A simple script in puppeteer to take an array of twitter urls and follow them",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Billy",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.14.0",
+    "puppeteer-cluster": "^0.15.2"
+  }
+}
