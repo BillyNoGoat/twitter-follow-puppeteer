@@ -1,3 +1,6 @@
+#### BIGGER AND BETTER NOTE THAN THE NOTE BELOW:
+OK twitter changed their UI and therefore this won't work (:
+
 #### NOTE:
 This project is not intended as an ideal solution. It's just a script I wrote in a matter of minutes as I was too lazy to open 60+ infosec resercher's twitter handles and follow them one by one and as it's a one-time script I didn't write it "properly". Puppeteer is suitable to write a quick script that works one time and that's it.
 
